@@ -239,7 +239,7 @@ body::before {
   width: 96px;
   height: 96px;
   border-radius: 50%;
-  background-color: #ddd;
+  background-color: #151a01;
   border: 2px solid black;
   margin-bottom: 16px;
 }
@@ -302,12 +302,12 @@ body::before {
   font-size: 24px;
   font-weight: bold;
   margin-bottom: 12px;
-  padding: 0 8px;
+  padding: 8px;
   border: 1px solid black;
 }
 
 .yellow-bg {
-  background-color: #ffd166;
+  background-color: #f3ac06;
 }
 
 .teal-bg {
@@ -336,7 +336,7 @@ body::before {
 .contact-info {
   border: 2px solid black;
   padding: 16px;
-  background-color: #f9f7e8;
+  background-color: #ead00e;
 }
 
 .contact-item {
